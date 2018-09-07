@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(){
-int cont = 0;
+int i = 0;
+int a = 0;
 
 printf("Hola mundo");
 printf("Adios");
